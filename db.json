@@ -1,0 +1,376 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "MacBook Air M2",
+      "description": "13-inch Retina display, 8GB RAM, 256GB SSD",
+      "image": "https://shop.ucom.am/media/catalog/product/cache/f0d04c535eae714fecfa8deb2c47c63b/1/m/1macbook_air_15_m2_16gb_un_256gb_midnight_z18t000au.webp",
+      "category": "Computers",
+      "price": 1199,
+      "solded": 235,
+      "inDiscount": 1100
+    },
+    {
+      "id": "2",
+      "name": "Dell XPS 15",
+      "description": "15.6-inch 4K display, Intel i7, 16GB RAM, 512GB SSD",
+      "image": "https://forcecom.kz/upload/iblock/656/hi6eqqjd10x7l29tw6op3deew2desx80.webp",
+      "category": "Computers",
+      "price": 1599,
+      "solded": 190,
+      "inDiscount": 1500
+    },
+    {
+      "id": "3",
+      "name": "HP Spectre x360",
+      "description": "13.3-inch FHD Touchscreen, 16GB RAM, 512GB SSD",
+      "image": "https://hpstore.uz/upload/webp/resize_cache/160/400_400_1/uu56kk86neb64bu1erjvfxgzsf9azyq4.webp",
+      "category": "Computers",
+      "price": 1299,
+      "solded": 150,
+      "inDiscount": 1200
+    },
+    {
+      "id": "4",
+      "name": "Asus ROG Strix G16",
+      "description": "Gaming Laptop, Intel i9, RTX 4070",
+      "image": "https://cdn-ultra.esempla.com/storage/webp/2aea30c5-0b44-4ce1-8969-c3be0b8dfac8.webp",
+      "category": "Computers",
+      "price": 1999,
+      "solded": 98,
+      "inDiscount": 1900
+    },
+    {
+      "id": "5",
+      "name": "Lenovo Legion 5 Pro",
+      "description": "AMD Ryzen 7, RTX 3060, 165Hz Display",
+      "image": "https://basket-19.wbbasket.ru/vol3157/part315720/315720616/images/c516x688/1.webp",
+      "category": "Computers",
+      "price": 1499,
+      "solded": 210,
+      "inDiscount": 1400
+    },
+    {
+      "id": "6",
+      "name": "Sony WH-1000XM5",
+      "description": "Wireless noise-canceling headphones",
+      "image": "https://media.hifi.lu/sys-master/products/9247671255070/1440x1440.33004704_01.webp",
+      "category": "Audio & Video",
+      "price": 399,
+      "solded": 312,
+      "inDiscount": 350
+    },
+    {
+      "id": "7",
+      "name": "Bose QuietComfort 45",
+      "description": "Noise Cancelling Over-Ear Headphones",
+      "image": "https://newworld.co.za/cdn/shop/files/qch24_cypressgreen_001_rgb_x2i_rgb_900x.webp?v=1723813851",
+      "category": "Audio & Video",
+      "price": 329,
+      "solded": 198,
+      "inDiscount": 300
+    },
+    {
+      "id": "8",
+      "name": "JBL Flip 6",
+      "description": "Portable Waterproof Bluetooth Speaker",
+      "image": "https://audioteceg.com/cdn/shop/products/1_JBL_FLIP6_HERO_BLUE_29399_x1_301ee7ae-0fa9-4afa-a2be-e494e2fd0168_700x700.webp?v=1653922502",
+      "category": "Audio & Video",
+      "price": 129,
+      "solded": 520,
+      "inDiscount": 100
+    },
+    {
+      "id": "9",
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "6.8-inch Dynamic AMOLED, 12GB RAM, 512GB Storage",
+      "image": "https://api.radius.uz/storage/products/September2023/bRrkNrKirIYtXT8qWbyW.webp",
+      "category": "Mobiles & Tablets",
+      "price": 1299,
+      "solded": 425,
+      "inDiscount": 1250
+    },
+    {
+      "id": "10",
+      "name": "iPhone 14 Pro Max",
+      "description": "6.7-inch Super Retina XDR, 256GB Storage",
+      "image": "https://www.minimalmockups.com/.netlify/images?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6chniyua%2Fproduction%2F708383aa4e771ef8c89158ab0ca4c4406d125e9f-1725x1294.jpg%3Fw%3D1725%26fm%3Dwebp%26q%3D75%26fit%3Dmax&fm=webp&w=1725&h=1294",
+      "category": "Mobiles & Tablets",
+      "price": 1199,
+      "solded": 689,
+      "inDiscount": 1100
+    },
+    {
+      "id": "11",
+      "name": "Google Pixel 7 Pro",
+      "description": "6.7-inch LTPO OLED, 12GB RAM, 256GB Storage",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg",
+      "category": "Mobiles & Tablets",
+      "price": 899,
+      "solded": 315,
+      "inDiscount": 850
+    },
+    {
+      "id": "12",
+      "name": "Apple Watch Series 8",
+      "description": "GPS + Cellular, Always-On Retina Display",
+      "image": "https://cdn0.it4profit.com/s3size/rt:fill/w:900/h:900/g:no/el:1/f:webp/plain/s3://cms/product/77/87/7787e553d9d230b1b1efc68573223513/220915160029816219.webp",
+      "category": "Watches & Eyewear",
+      "price": 499,
+      "solded": 520,
+      "inDiscount": 450
+    },
+    {
+      "id": "13",
+      "name": "Samsung 65-inch QLED 4K TV",
+      "description": "Quantum Dot Technology, HDR10+",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/uz_ru/qe65q80cauxuz/gallery/uz-ru-qled-q80c-qe65q80cauxuz-538864467?$684_547_PNG$",
+      "category": "TV & Monitors",
+      "price": 999,
+      "solded": 375,
+      "inDiscount": 960
+    },
+    {
+      "id": "14",
+      "name": "LG OLED C2 55-inch TV",
+      "description": "Self-lit OLED Pixels, Dolby Vision IQ",
+      "image": "https://www.rgbdirect.co.uk/ProductImages/LG/Additional/OLED55G46LSNEW_02.webp",
+      "category": "TV & Monitors",
+      "price": 1299,
+      "solded": 285,
+      "inDiscount": 1200
+    },
+    {
+      "id": "15",
+      "name": "Dell 27-inch 4K Monitor",
+      "description": "IPS Display, 60Hz, UltraSharp Technology",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u2723qe/media-gallery/monitor-u2723qe-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=320&wid=536&qlt=100,1&resMode=sharp2&size=536,320&chrss=full",
+      "category": "TV & Monitors",
+      "price": 499,
+      "solded": 198,
+      "inDiscount": 479
+    },
+    {
+      "id": "16",
+      "name": "Acer Predator Helios 300",
+      "description": "Gaming Laptop, Intel i7, RTX 3060",
+      "image": "https://nout.kz/upload/resize_cache/webp/iblock/929/df7qjl1daa6hwd8242mnjmd2z38wb3od/5.webp",
+      "category": "Computers",
+      "price": 1299,
+      "solded": 175,
+      "inDiscount": 1219
+    },
+    {
+      "id": "17",
+      "name": "Razer Blade 15",
+      "description": "Gaming Laptop, Intel i9, RTX 3070",
+      "image": "https://assets2.razerzone.com/images/pnx.assets/a1ee4c5a780a401444be898fe93ade69/thumbnail-blade15-new-model.webp",
+      "category": "Computers",
+      "price": 2099,
+      "solded": 132,
+      "inDiscount": 2000
+    },
+    {
+      "id": "18",
+      "name": "Asus ZenBook 14",
+      "description": "14-inch FHD, AMD Ryzen 5, 512GB SSD",
+      "image": "https://cdn.mediapark.uz/imgs/bccc95b0-a59a-4113-8ed8-8fcc29ba044d_1htsbt1woeadt6558raq80wjq9e69l70.webp",
+      "category": "Computers",
+      "price": 899,
+      "solded": 256,
+      "inDiscount": 859
+    },
+    {
+      "id": "19",
+      "name": "Bang & Olufsen Beoplay HX",
+      "description": "Premium Over-Ear Wireless Headphones",
+      "image": "https://www.premiersound.uz/img/Packshot-Beoplay-HX-Timber-0061-Perspective-S1200x1200px.webp",
+      "category": "Audio & Video",
+      "price": 499,
+      "solded": 312,
+      "inDiscount": 429
+    },
+    {
+      "id": "20",
+      "name": "Marshall Emberton II",
+      "description": "Portable Bluetooth Speaker, Water Resistant",
+      "image": "https://ashgabatmarket.com/wp-content/uploads/2024/03/Marshall-Emberton-2-25.webp",
+      "category": "Audio & Video",
+      "price": 149,
+      "solded": 420,
+      "inDiscount": 130
+    },
+    {
+      "id": "21",
+      "name": "Apple AirPods Max",
+      "description": "Over-ear headphones with Active Noise Cancellation",
+      "image": "https://cdn0.it4profit.com/s3size/rt:fill/w:900/h:900/g:no/el:1/f:webp/plain/s3://cms/product/6b/27/6b277dda254d92ba921e4607d198d862/240911160016145566.webp",
+      "category": "Audio & Video",
+      "price": 549,
+      "solded": 290,
+      "inDiscount": 520
+    },
+    {
+      "id": "22",
+      "name": "OnePlus 11 5G",
+      "description": "Snapdragon 8 Gen 2, 12GB RAM, 256GB Storage",
+      "image": "https://image01.oneplus.net/media/202409/24/07643db2d15e1fb0284f9b0885cb2d76.png?x-amz-process=image/format,webp/quality,Q_80",
+      "category": "Mobiles & Tablets",
+      "price": 799,
+      "solded": 350,
+      "inDiscount": 719
+    },
+    {
+      "id": "23",
+      "name": "Xiaomi 13 Pro",
+      "description": "6.73-inch AMOLED, 12GB RAM, 512GB Storage",
+      "image": "https://minapi.beemarket.uz/prod-media/productImages/1723121900U7Mk4yelEo9w.webp",
+      "category": "Mobiles & Tablets",
+      "price": 899,
+      "solded": 280,
+      "inDiscount": 867
+    },
+    {
+      "id": "24",
+      "name": "Garmin Fenix 7X",
+      "description": "Rugged GPS Smartwatch, Solar Charging",
+      "image": "https://static.insales-cdn.com/images/products/1/7930/752860922/cf-xl.webp",
+      "category": "Watches & Eyewear",
+      "price": 899,
+      "solded": 155,
+      "inDiscount": 829
+    },
+    {
+      "id": "25",
+      "name": "Samsung 75-inch Neo QLED 8K TV",
+      "description": "Quantum HDR 64x, AI Upscaling",
+      "image": "https://media.hifi.lu/sys-master/products/9148744794142/1440x1440.31002406_1.webp",
+      "category": "TV & Monitors",
+      "price": 3999,
+      "solded": 80,
+      "inDiscount": 3929
+    },
+    {
+      "id": "26",
+      "name": "BenQ EX3501R Curved Monitor",
+      "description": "35-inch UltraWide QHD, 100Hz Refresh Rate",
+      "image": "https://image.benq.com/is/image/benqco/1-ex3501r-2k-wqhd-curved-gaming-monitor-1?$ResponsivePreset$&fmt=png-alpha",
+      "category": "TV & Monitors",
+      "price": 799,
+      "solded": 110,
+      "inDiscount": 729
+    },
+    {
+      "id": "27",
+      "name": "Huawei Watch GT 3 Pro",
+      "description": "Luxury Design, Long Battery Life",
+      "image": "https://tele2.ee/api/webp?src=https://tele2.ee/media/catalog/product/cache/5e8ba96e32502a294eac11fbf6d5ef42/1/_/1.png",
+      "category": "Watches & Eyewear",
+      "price": 349,
+      "solded": 220,
+      "inDiscount": 329
+    },
+    {
+      "id": "28",
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "6.8-inch AMOLED, Snapdragon 8 Gen 2, 12GB RAM, 512GB Storage",
+      "image": "https://api.radius.uz/storage/products/September2023/bRrkNrKirIYtXT8qWbyW.webp",
+      "category": "Mobiles & Tablets",
+      "price": 1199,
+      "solded": 450,
+      "inDiscount": 1150
+    },
+    {
+      "id": "29",
+      "name": "iPhone 14 Pro Max",
+      "description": "6.7-inch Super Retina XDR, A16 Bionic, 256GB Storage",
+      "image": "https://static.insales-cdn.com/r/BPNvkNaRxWk/rs:fit:500:0:1/q:100/plain/images/products/1/1405/766461309/14-pro-belyj-3.webp@webp",
+      "category": "Mobiles & Tablets",
+      "price": 1099,
+      "solded": 500,
+      "inDiscount": 1019
+    },
+    {
+      "id": "30",
+      "name": "Google Pixel 7 Pro",
+      "description": "6.7-inch LTPO AMOLED, Google Tensor G2, 12GB RAM",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg",
+      "category": "Mobiles & Tablets",
+      "price": 899,
+      "solded": 320,
+      "inDiscount": 879
+    },
+    {
+      "id": "31",
+      "name": "Sony WH-1000XM5",
+      "description": "Industry Leading Noise Cancelling Wireless Headphones",
+      "image": "https://cdn.newtime.ua/upload/2024-11/navushnyky-sony-wh-1000xm5-smoky-pink-wh1000xm5pce7.440x.webp",
+      "category": "Audio & Video",
+      "price": 399,
+      "solded": 600,
+      "inDiscount": 379
+    },
+    {
+      "id": "32",
+      "name": "Bose QuietComfort 45",
+      "description": "Over-Ear Wireless Headphones with ANC",
+      "image": "https://cdn.newtime.ua/upload/2023-02/navushniki-bose-quietcomfort-45-midnight-blue-866724-0300-1.webp",
+      "category": "Audio & Video",
+      "price": 329,
+      "solded": 520,
+      "inDiscount": 299
+    },
+    {
+      "id": "33",
+      "name": "Dell XPS 15",
+      "description": "15.6-inch 4K OLED, Intel i9, RTX 3050 Ti",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQss0cyoeg1JcggtV1FwI33Iy_5i2VW1M0q4g&s",
+      "category": "Computers",
+      "price": 2299,
+      "solded": 210,
+      "inDiscount": 2199
+    },
+    {
+      "id": "34",
+      "name": "Apple MacBook Pro 16",
+      "description": "M2 Max Chip, 32GB RAM, 1TB SSD",
+      "image": "https://macfinder.co.uk/wp-content/smush-webp/2023/08/img-MacBook-Pro-Retina-16-Inch-41411.jpg.webp",
+      "category": "Computers",
+      "price": 3499,
+      "solded": 180,
+      "inDiscount": 3449
+    },
+    {
+      "id": "35",
+      "name": "LG C2 OLED TV",
+      "description": "65-inch 4K Smart TV, Dolby Vision & Atmos",
+      "image": "https://www.lg.com/content/dam/channel/wcms/cz/images/televizory/oled65g45lw_aeu_eepl_cz_c/OLED65G45-dtest-2010x1334-cz.jpg/_jcr_content/renditions/thum-1600x1062.jpeg",
+      "category": "TV & Monitors",
+      "price": 1799,
+      "solded": 140,
+      "inDiscount": 1719
+    },
+    {
+      "id": "36",
+      "name": "Samsung Odyssey G9",
+      "description": "49-inch UltraWide QHD, 240Hz Refresh Rate",
+      "image": "https://forcecom.kz/upload/iblock/b4c/ffbvodx180x3iaab1zvhrdllmad9xdba.webp",
+      "category": "TV & Monitors",
+      "price": 1399,
+      "solded": 95,
+      "inDiscount": 1299
+    },
+    {
+      "id": "37",
+      "name": "Apple Watch Ultra",
+      "description": "49mm Titanium Case, GPS + Cellular, Rugged Design",
+      "image": "https://apple-market.ru/image/cache/catalog/Add_den/Watch/Ultra%202%202024/Natural%20titan/Ocean%20Band/Navy/0.png_250.webp",
+      "category": "Watches & Eyewear",
+      "price": 799,
+      "solded": 350,
+      "inDiscount": 779
+    }
+  ],
+  "carts": [],
+  "favourites": []
+}
