@@ -10,7 +10,6 @@
     "json-server": "^1.0.0-beta.3"
   },
   "engines": {
-  "node": ">=20"
-}
-
+    "node": ">=20"
+  }
 }
