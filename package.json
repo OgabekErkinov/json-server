@@ -1,15 +1,15 @@
 {
-  "name": "server",
+  "name": "json-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "JSON Server for Render",
   "main": "server.js",
   "scripts": {
-    "start": "npx json-server --watch db.json --port 3000"
+    "start": "node server.js"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.3"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20.x"
   }
 }
